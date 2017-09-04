@@ -14,4 +14,4 @@ supports 'ubuntu', '>= 14.04'
 supports 'rhel', '>= 7.0'
 supports 'centos', '>= 7.0'
 
-depends 'nodejs', '>= 2.4.0'
+depends 'nodejs', '>= 4.0.0'
